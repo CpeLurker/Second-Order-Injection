@@ -16,5 +16,10 @@
 > >
 > > Python3
 
+## Manual
+
++ 源码打包在Source
++ 提供一个CMS测试案例
+
 More ...
 
