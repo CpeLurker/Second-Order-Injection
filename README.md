@@ -16,10 +16,14 @@
 > >
 > > Python3
 
+<<<<<<< HEAD
 ## Manual
 
 + 源码打包在Source
 + 提供一个CMS测试案例
 
 More ...
+=======
+More ...有时间再缕
+>>>>>>> 1c77a2e7fee893c1337a0e22b916d91e547d9f79
 
